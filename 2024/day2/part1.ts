@@ -73,7 +73,4 @@ stdin.on('end', () => {
 });
 
 // Resume stdin to start reading
-
-
-
 stdin.resume();
